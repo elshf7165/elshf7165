@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Fatima! 👋
 
-<!--
-**elshf7165/elshf7165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at the University of Guelph
 
-Here are some ideas to get you started:
+💻 Interested in software development, problem-solving, and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Skills
+- **Languages:** Java, C, Python, C++, 68000 Assembly
+- **Tools:** Git, GitHub, VS Code, Linux
+- **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
+
+### 🚀 Projects
+I'm currently organizing my programming projects and documenting my work here.
+
+### 📫 Connect
+Feel free to explore my repositories and follow my progress!
